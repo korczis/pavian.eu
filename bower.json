@@ -1,0 +1,21 @@
+{
+  "name": "korczis.com",
+  "version": "0.0.1",
+  "homepage": "https://github.com/korczis/korczis.com",
+  "authors": [
+    "korczis <korczis@gmail.com>"
+  ],
+  "description": "korczis.com website",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "components"
+  ],
+  "dependencies": {
+    "bootstrap": "3.1.1",
+    "modernizr": "2.7.1",
+    "jquery": "2.0.3",
+    "normalize-css": "~3.0.0",
+    "font-awesome": "~4.0.3"
+  }
+}
